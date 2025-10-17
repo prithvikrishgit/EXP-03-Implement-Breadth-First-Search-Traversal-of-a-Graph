@@ -1,7 +1,9 @@
 # EXP-03-Implement-Breadth-First-Search-Traversal-of-a-Graph
 Breadth First Search Traversal of a Graph
-NAME: PRITHVI KRISHNA
-REG NO: 24901171
+
+Name: PRITHVI KRISHNA
+
+Register number:212224210016
 
 AIM: 
 Theory: 
